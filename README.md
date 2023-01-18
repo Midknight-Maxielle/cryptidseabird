@@ -1,5 +1,5 @@
-Heya, my name is Maxielle, and I'm a modder, developer, coder, programmer, etc. 
+Sveiki atvykę!
 
-This repository houses, at the moment, my Minecraft Java mod repositories, and may in the future house independent open-source projects. If you wanna find out more about me, check the linktree. Thanks!
+My name is MK and I'm an independent game developer, working on mods for popular games and original gaming projects.
 
-https://linktr.ee/midknightmaxielle
+This repository houses, at the moment, mods I've developed for the Java Edition of Minecraft.
